@@ -75,9 +75,9 @@ public class project2_Liu_Berezinski_Sterrenberg {
             System.out.println(counter);
             counter = 0;
             
-//            if (fix_set.size() == num) {
-//                break;
-//            }
+            if (fix_set.size() == num) {
+                break;
+            }
             
         }
         
